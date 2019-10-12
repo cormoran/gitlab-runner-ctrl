@@ -26,6 +26,7 @@
 					<td></td>
 					<td>
 						<button @click="saveConfig" class="btn btn-primary float-right">Save</button>
+                        (stored in local storage)
 					</td>
 				</tr>
 			</table>
